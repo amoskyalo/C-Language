@@ -77,8 +77,7 @@ int main()
     // ans: 0 times;
 
     unsigned int k = 500;
-    while (k++ != 0)
-        ;
+    while (k++ != 0);
     //printf("%d", k);
 
    // palindrome;
